@@ -1,34 +1,24 @@
 # scheying.de
 .scheying.de::a.ns.hordak.net
 &scheying.de::c.ns.buddyns.com
-+pb.scheying.de:217.86.195.19:180
+
++www.scheying.de:52.28.222.18:180
++scheying.de:52.28.222.18:180
 +drupal.scheying.de:52.28.222.18:180
-# Delegation dyn.scheying.de -> zoneedit.com
-#&dyn.scheying.de:216.122.7.155:ns7.zoneedit.com
-#&dyn.scheying.de:69.64.68.41:ns16.zoneedit.com
-#Cwr.scheying.de:wr.dyn.scheying.de
++pb.scheying.de:217.86.195.19:180
+
 Cts.scheying.de:lhuwqgmx3ojqo3n3.myfritz.net
 Cwr.scheying.de:qjcbdeinxzvvdh4r.myfritz.net
 Cmail.scheying.de:ghs.google.com
-# @scheying.de::mailin.dcp-server.de.:10:180
-# @scheying.de::mailin3.dcp-server.de.:20:180
+
 @scheying.de::ASPMX.L.GOOGLE.COM.:1:180
 @scheying.de::ALT1.ASPMX.L.GOOGLE.COM.:5:180
 @scheying.de::ALT2.ASPMX.L.GOOGLE.COM.:5:180
 @scheying.de::ASPMX2.GOOGLEMAIL.COM.:10:180
 @scheying.de::ASPMX3.GOOGLEMAIL.COM.:10:180
 @ext.scheying.de::zodac.hordak.net.:10:180
+
 'scheying.de:v=spf1 include\072_spf.google.com ~all:180
 'scheying._domainkey.scheying.de:v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCgtMWV/eQwgCAeHY3eaaE3nqcKh0CJLEsVtTPSroJjSsTXMNT+P4p/ShxXBwFdya0thiVDtOl6BbkQ6/8klz3h6bre0swwkaYc6eSZRwU2aW9UQ5Lzi9hnZ4yrJt71m6BZwcAZTm4FBR4s6RKH7x1+DLXAarRMfOamoBUyk1Q2gwIDAQAB:180
-+scheying.de:52.28.222.18:180
-+www.scheying.de:52.28.222.18:180
-+calendar.scheying.de:83.169.37.5:180
-+fasching.scheying.de:83.169.37.5:180
-+hsj.scheying.de:83.169.37.5:180
-+ironfist.scheying.de:83.169.37.5:180
-+planung.scheying.de:83.169.37.5:180
-+rezepte.scheying.de:83.169.37.5:180
-+talstr.scheying.de:212.72.170.135:180
-+tools.scheying.de:83.169.37.5:180
-+wiki.scheying.de:83.169.37.5:180
-+fcsp.scheying.de:83.169.37.5:180
+
+
